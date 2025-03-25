@@ -30,8 +30,7 @@ To set up the **Rural Livelihood Improvement Platform**, follow these steps:
 
 > **Note:** Ensure you have Java, MySQL, and a web server installed for smooth execution.
 
-## Preview
-*(Include screenshots if available.)*
+
 
 ---
 
